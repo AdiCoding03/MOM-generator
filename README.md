@@ -9,3 +9,5 @@ It is an Optical Character Recognition technology that converts:
 
 into machine-readable and editable text.
 
+# App Link
+https://mom-generator-ddhfxbq5blps8aiqjbrfr5.streamlit.app/
